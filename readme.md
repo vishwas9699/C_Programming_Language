@@ -3,8 +3,7 @@
 
 ### C Programming Language
 
-![C](https://png.icons8.com/color/1600/c-programming)
---------
+
 
 The C Language is developed for creating system applications that directly interact with the hardware devices such as drivers, kernels, etc.
 
@@ -114,5 +113,5 @@ Topics
 |[C fputs() fgets()](https://github.com/connectaman/C_Programming_Language/blob/master/File%20Handling/gets%20and%20puts.md)|
 |[C fseek()](https://github.com/connectaman/C_Programming_Language/blob/master/File%20Handling/fseek().md)|
 |[C rewind()](https://github.com/connectaman/C_Programming_Language/blob/master/File%20Handling/rewind().md)|
-|[C Programs](https://github.com/connectaman/C_Programming_Language/tree/master/Programs)|
+
 

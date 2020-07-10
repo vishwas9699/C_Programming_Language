@@ -88,7 +88,7 @@ Topics
 |[C break](https://github.com/vishwas9699/C_Programming_Language/blob/master/Loops/Break/break.md)|
 |[C continue](https://github.com/vishwas9699/C_Programming_Language/blob/master/Loops/Continue/Continue.md)|
 |[C Continue Goto](https://github.com/vishwas9699/C_Programming_Language/blob/master/Loops/Continue/Goto.md)|
-|[C Functions](https://github.com/vishwas9699/C_Programming_Language/tree/master/Functions)|
+|[C Functions](https://github.com/vishwas9699/C_Programming_Language/blob/master/Functions/Functions.md)|
 |[Call: Value & Reference](https://github.com/vishwas9699/C_Programming_Language/blob/master/Functions/Call_By_Ref_Value/Call_By_Ref_Value.md)|
 |[Recursion in c](https://github.com/vishwas9699/C_Programming_Language/tree/master/Functions/Recursion)|
 |[Storage Classes](https://github.com/vishwas9699/C_Programming_Language/tree/master/Functions/StorageClass)|

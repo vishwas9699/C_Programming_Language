@@ -75,7 +75,7 @@ Topics
 |[Variables in C](https://github.com/vishwas9699/C_Programming_Language/blob/master/VariableInC/Variable.md)|
 |[Data Types in c](https://github.com/vishwas9699/C_Programming_Language/blob/master/DataType/DataTypeinC.md)|
 |[Keywords in c](https://github.com/vishwas9699/C_Programming_Language/blob/master/DataType/KeyWords.md)|
-|[C Operators](https://github.com/vishwas9699/C_Programming_Language/tree/master/Operators)|
+|[C Operators](https://github.com/vishwas9699/C_Programming_Language/blob/master/Operators/Operator.md)|
 |[C Control Statements](https://github.com/vishwas9699/C_Programming_Language/tree/master/ControlStatement)|
 |[C if](https://github.com/vishwas9699/C_Programming_Language/tree/master/ControlStatement/SimpleIF)|
 |[C if-else](https://github.com/vishwas9699/C_Programming_Language/tree/master/ControlStatement/If-Else)|

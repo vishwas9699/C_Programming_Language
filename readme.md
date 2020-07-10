@@ -104,7 +104,6 @@ Topics
 |[C Malloc](https://github.com/vishwas9699/C_Programming_Language/blob/master/Dynamic%20Memory%20Allocation/malloc.md)|
 |[C Relloc](https://github.com/vishwas9699/C_Programming_Language/blob/master/Dynamic%20Memory%20Allocation/Relloc.md)|
 |[C Strings](https://github.com/vishwas9699/C_Programming_Language/blob/master/Strings/String.md)|
-|[C String Functions](https://github.com/vishwas9699/C_Programming_Language/tree/master/Strings)|
 |[C Math](https://github.com/vishwas9699/C_Programming_Language/blob/master/Math%20Functions/Math.md)|
 |[C Structure](https://github.com/vishwas9699/C_Programming_Language/blob/master/Structure%20and%20Unions/Structure/Structure.md)|
 |[C Array of Structures](https://github.com/vishwas9699/C_Programming_Language/blob/master/Structure%20and%20Unions/Structure/ArrayOfStructure.md)|

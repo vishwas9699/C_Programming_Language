@@ -66,7 +66,7 @@ A High-Level language is not specific to one machine, i.e., machine independent.
 Topics
 
 
-| C Programming| 
+| **C Programming**| 
 |----------|
 |[History of C](https://github.com/vishwas9699/C_Programming_Language/blob/master/HistoryOfC.md)|
 |[Features of C](https://github.com/vishwas9699/C_Programming_Language/blob/master/FeaturesOfC.md)|

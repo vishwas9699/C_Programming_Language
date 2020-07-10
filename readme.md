@@ -71,7 +71,7 @@ Topics
 |[History of C](https://github.com/vishwas9699/C_Programming_Language/blob/master/HistoryOfC.md)|
 |[Features of C](https://github.com/vishwas9699/C_Programming_Language/blob/master/FeaturesOfC.md)|
 |[Structure of C](https://github.com/vishwas9699/C_Programming_Language/blob/master/StructureOfC.md)|
-|[printf scanf](https://github.com/vishwas9699/C_Programming_Language/tree/master/printf%26scanf)|
+|[printf scanf](https://github.com/vishwas9699/C_Programming_Language/tree/master/printf%26scanf/printfandscanf.md)|
 |[Variables in C](https://github.com/vishwas9699/C_Programming_Language/blob/master/VariableInC/Variable.md)|
 |[Data Types in c](https://github.com/vishwas9699/C_Programming_Language/blob/master/DataType/DataTypeinC.md)|
 |[Keywords in c](https://github.com/vishwas9699/C_Programming_Language/blob/master/DataType/KeyWords.md)|

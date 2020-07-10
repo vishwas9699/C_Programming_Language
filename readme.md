@@ -96,7 +96,7 @@ Topics
 |[1-D Array](https://github.com/vishwas9699/C_Programming_Language/blob/master/Array/1-D_Array/1darray.md)|
 |[2-D Array](https://github.com/vishwas9699/C_Programming_Language/blob/master/Array/2-D_Array/2d-array.md)|
 |[Array to Function](https://github.com/vishwas9699/C_Programming_Language/blob/master/Array/ArrayToFunction/ArrayToFunction.md)|
-|[C Pointers](https://github.com/vishwas9699/C_Programming_Language/tree/master/Pointers)|
+|[C Pointers](https://github.com/vishwas9699/C_Programming_Language/blob/master/Pointers/Pointers.md)|
 |[C Pointer to Pointer](https://github.com/vishwas9699/C_Programming_Language/blob/master/Pointers/PointerToPointer.c)|
 |[C Pointer Arithmetic](https://github.com/vishwas9699/C_Programming_Language/tree/master/Pointers/PointersArithmetic)|
 |[C Dynamic Memory](https://github.com/vishwas9699/C_Programming_Language/tree/master/Dynamic%20Memory%20Allocation)|

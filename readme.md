@@ -90,7 +90,7 @@ Topics
 |[C Continue Goto](https://github.com/vishwas9699/C_Programming_Language/blob/master/Loops/Continue/Goto.md)|
 |[C Functions](https://github.com/vishwas9699/C_Programming_Language/blob/master/Functions/Functions.md)|
 |[Call: Value & Reference](https://github.com/vishwas9699/C_Programming_Language/blob/master/Functions/Call_By_Ref_Value/Call_By_Ref_Value.md)|
-|[Recursion in c](https://github.com/vishwas9699/C_Programming_Language/tree/master/Functions/Recursion)|
+|[Recursion in c](https://github.com/vishwas9699/C_Programming_Language/blob/master/Functions/Recursion/Recursion.md)|
 |[Storage Classes](https://github.com/vishwas9699/C_Programming_Language/tree/master/Functions/StorageClass)|
 |[C Array](https://github.com/vishwas9699/C_Programming_Language/tree/master/Array)|
 |[1-D Array](https://github.com/vishwas9699/C_Programming_Language/tree/master/Array/1-D%20Array)|

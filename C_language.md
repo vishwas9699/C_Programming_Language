@@ -1,7 +1,5 @@
 ### C Programming Language
 
-![C](https://png.icons8.com/color/1600/c-programming)
---------
 
 The C Language is developed for creating system applications that directly interact with the hardware devices such as drivers, kernels, etc.
 

@@ -84,9 +84,9 @@ Topics
 |[C Loops](https://github.com/vishwas9699/C_Programming_Language/blob/master/Loops/Loops.md)|
 |[C while loop](https://github.com/vishwas9699/C_Programming_Language/blob/master/Loops/While/while.md)|
 |[C do-while loop](https://github.com/vishwas9699/C_Programming_Language/blob/master/Loops/Do-While/dowhile.md)|
-|[C for loop](https://github.com/vishwas9699/C_Programming_Language/tree/master/Loops/forloop)|
-|[C break](https://github.com/vishwas9699/C_Programming_Language/tree/master/Loops/Break)|
-|[C continue](https://github.com/vishwas9699/C_Programming_Language/tree/master/Loops/Continue)|
+|[C for loop](https://github.com/vishwas9699/C_Programming_Language/blob/master/Loops/forloop/forloop.md)|
+|[C break](https://github.com/vishwas9699/C_Programming_Language/blob/master/Loops/Break/break.md)|
+|[C continue](https://github.com/vishwas9699/C_Programming_Language/blob/master/Loops/Continue/Continue.md)|
 |[C Functions](https://github.com/vishwas9699/C_Programming_Language/tree/master/Functions)|
 |[What is function](https://github.com/vishwas9699/C_Programming_Language/blob/master/Functions/Functions.md)|
 |[Call: Value & Reference](https://github.com/vishwas9699/C_Programming_Language/tree/master/Functions/Call_By_Ref_Value)|

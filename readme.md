@@ -93,9 +93,9 @@ Topics
 |[Recursion in c](https://github.com/vishwas9699/C_Programming_Language/blob/master/Functions/Recursion/Recursion.md)|
 |[Storage Classes](https://github.com/vishwas9699/C_Programming_Language/blob/master/Functions/StorageClass/StorageClass.md)|
 |[C Array](https://github.com/vishwas9699/C_Programming_Language/tree/master/Array)|
-|[1-D Array](https://github.com/vishwas9699/C_Programming_Language/tree/master/Array/1-D%20Array)|
-|[2-D Array](https://github.com/vishwas9699/C_Programming_Language/tree/master/Array/2-D%20Array)|
-|[Array to Function](https://github.com/vishwas9699/C_Programming_Language/tree/master/Array/ArrayToFunction)|
+|[1-D Array](https://github.com/vishwas9699/C_Programming_Language/blob/master/Array/1-D_Array/1darray.md)|
+|[2-D Array](https://github.com/vishwas9699/C_Programming_Language/blob/master/Array/2-D_Array/2d-array.md)|
+|[Array to Function](https://github.com/vishwas9699/C_Programming_Language/blob/master/Array/ArrayToFunction/ArrayToFunction.md)|
 |[C Pointers](https://github.com/vishwas9699/C_Programming_Language/tree/master/Pointers)|
 |[C Pointer to Pointer](https://github.com/vishwas9699/C_Programming_Language/blob/master/Pointers/PointerToPointer.c)|
 |[C Pointer Arithmetic](https://github.com/vishwas9699/C_Programming_Language/tree/master/Pointers/PointersArithmetic)|

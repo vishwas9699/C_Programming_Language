@@ -78,7 +78,7 @@ Topics
 |[C Operators](https://github.com/vishwas9699/C_Programming_Language/blob/master/Operators/Operator.md)|
 |[C Control Statements](https://github.com/vishwas9699/C_Programming_Language/tree/master/ControlStatement)|
 |[C if](https://github.com/vishwas9699/C_Programming_Language/blob/master/ControlStatement/SimpleIf/SimpleIf.md)|
-|[C if-else](https://github.com/vishwas9699/C_Programming_Language/tree/master/ControlStatement/If-Else)|
+|[C if-else](https://github.com/vishwas9699/C_Programming_Language/blob/master/ControlStatement/if-Else/ifelse.md)|
 |[C if-else if ladder](https://github.com/vishwas9699/C_Programming_Language/tree/master/ControlStatement/IfElseLadder)|
 |[C switch](https://github.com/vishwas9699/C_Programming_Language/tree/master/ControlStatement/Switch)|
 |[C Loops](https://github.com/vishwas9699/C_Programming_Language/blob/master/Loops/Loops.md)|

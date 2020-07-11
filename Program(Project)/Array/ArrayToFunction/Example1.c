@@ -1,3 +1,4 @@
+  
 #include<stdio.h>
 int minarray(int arr[],int size){
     int min=arr[0];
@@ -18,6 +19,3 @@ int main(){
     printf("minimum number is %d \n",min);
     return 0;
 }
-
-//minimum number is 3
-

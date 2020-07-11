@@ -27,9 +27,3 @@ int main()
 }
 
 
-//Enter your marks?10
-//Sorry you are fail ...
-//Enter your marks?40
-//You scored grade C ...
-//Enter your marks?90
-//Congrats ! you scored grade A ...

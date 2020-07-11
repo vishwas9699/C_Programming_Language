@@ -20,8 +20,3 @@ int main(){
 }
 
 
-//enter a number:4
-//number is not equal to 10, 50 or 100
-//
-//enter a number:50
-//number is equal to 50

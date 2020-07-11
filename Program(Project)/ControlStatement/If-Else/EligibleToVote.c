@@ -13,9 +13,3 @@ int main()
         printf("Sorry ... you can't vote");
     }
 }
-
-
-//Enter your age?18
-//You are eligible to vote...
-//Enter your age?13
-//Sorry ... you can't vote

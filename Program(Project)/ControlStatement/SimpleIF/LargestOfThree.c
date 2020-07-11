@@ -21,7 +21,3 @@ int main()
         printf("All are equal");
     }
 }
-
-//Enter three numbers?
-//12 23 34
-//34 is largest

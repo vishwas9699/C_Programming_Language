@@ -9,7 +9,3 @@ int main(){
     return 0;
 }
 
-//Enter a number:4
-//4 is even number
-//
-//enter a number:5

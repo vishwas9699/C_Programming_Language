@@ -15,12 +15,3 @@ void average(int a, int b, int c, int d, int e)
     printf("The average of given five numbers : %f",avg);
 }
 
-
-//Going to calculate the average of five numbers:
-//Enter five numbers:10
-//20
-//30
-//40
-//50
-//The average of given five numbers : 30.000000
-

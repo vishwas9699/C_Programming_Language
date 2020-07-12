@@ -14,9 +14,3 @@ void sum()
 }
 
 
-//Going to calculate the sum of two numbers:
-//
-//Enter two numbers 10
-//24
-//
-//The sum is 34

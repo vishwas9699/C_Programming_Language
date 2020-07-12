@@ -13,8 +13,3 @@ int sum(int a, int b)
 {
     return a+b;
 }
-
-//Going to calculate the sum of two numbers:
-//Enter two numbers:10
-//20
-//The sum is : 30

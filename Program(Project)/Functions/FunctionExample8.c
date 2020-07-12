@@ -27,8 +27,3 @@ int even_odd(int n)
         return 0;
     }
 }
-
-
-//Going to check whether a number is even or odd
-//Enter the number: 100
-//The number is even

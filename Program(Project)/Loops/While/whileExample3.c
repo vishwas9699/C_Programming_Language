@@ -1,11 +1,9 @@
 #include<stdio.h>
 void main ()
 {
-    while()
+    while(1)
     {
         printf("hello there");
     }
 }
 
-
-//compile time error: while loop can't be empty

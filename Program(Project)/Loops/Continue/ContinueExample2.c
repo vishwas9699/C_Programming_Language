@@ -11,14 +11,3 @@ int main(){
     return 0;
 }
 
-//1
-//2
-//3
-//4
-//6
-//7
-//8
-//9
-//10
-//
-//As you can see, 5 is not printed on the console because loop is continued at i==5.

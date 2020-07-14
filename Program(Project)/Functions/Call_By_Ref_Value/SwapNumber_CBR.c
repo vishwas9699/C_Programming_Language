@@ -17,7 +17,3 @@ void swap (int *a, int *b)
     printf("After swapping values in function a = %d, b = %d\n",*a,*b); // Formal parameters, a = 20, b = 10   
 }
 
-
-//Before swapping the values in main a = 10, b = 20
-//After swapping values in function a = 20, b = 10
-//After swapping values in main a = 20, b = 10

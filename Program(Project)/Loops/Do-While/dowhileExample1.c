@@ -27,18 +27,4 @@ void main ()
     }while(c=='y');
 }
 
-//1. Print Hello
-//2. Print Elon Musk
-//3. Exit
-//1
-//Hello
-//do you want to enter more?
-//y
-//
-//1. Print Hello
-//2. Print Elon Musk
-//3. Exit
-//2
-//Elon Musk
-//do you want to enter more?
-//n
+

@@ -8,5 +8,3 @@ void main ()
     }
 }
 
-
-//infinite loop

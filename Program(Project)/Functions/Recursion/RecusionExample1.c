@@ -24,5 +24,4 @@ int fibonacci (int n)
     }
 }
 
-//Enter the value of n?12
-//144
+

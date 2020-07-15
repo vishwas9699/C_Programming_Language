@@ -17,5 +17,3 @@ int addition()
 }
 
 
-//Enter two numbers?10 15
-//The sum is 25

@@ -9,7 +9,3 @@ int main(){
 }
 
 
-
-//Address of number variable is fff4
-//Address of p variable is fff4
-//Value of p variable is 50

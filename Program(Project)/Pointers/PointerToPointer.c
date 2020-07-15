@@ -11,9 +11,3 @@ void main ()
     printf("value stored at p: %d\n",*p); // value stoted at the address contained by p i.e. 10 will be printed
     printf("value stored at pp: %d\n",**pp); // value stored at the address contained by the pointer stoyred at pp
 }
-
-
-//address of a: d26a8734
-//address of p: d26a8738
-//value stored at p: 10
-//value stored at pp: 10

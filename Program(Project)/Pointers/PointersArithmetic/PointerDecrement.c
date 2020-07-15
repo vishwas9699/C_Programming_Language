@@ -7,6 +7,3 @@ void main(){
     p=p-1;
     printf("After decrement: Address of p variable is %u \n",p); // P will now point to the immidiate previous location.
 }
-
-//Address of p variable is 3214864300
-//After decrement: Address of p variable is 3214864296

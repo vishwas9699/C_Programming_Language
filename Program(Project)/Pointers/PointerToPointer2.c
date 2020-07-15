@@ -13,8 +13,3 @@ int main(){
     return 0;
 }
 
-//Address of number variable is fff4
-//Address of p variable is fff4
-//Value of *p variable is 50
-//Address of p2 variable is fff2
-//Value of **p variable is 50

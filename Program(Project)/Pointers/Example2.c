@@ -11,5 +11,4 @@ int main(){
     return 0;
 }
 
-//Before swap: *p1=10 *p2=20
-//After swap: *p1=20 *p2=10
+

@@ -9,5 +9,3 @@ int main(){
     return 0;
 }
 
-//Address of p variable is 3214864300
-//After adding 3: Address of p variable is 3214864312

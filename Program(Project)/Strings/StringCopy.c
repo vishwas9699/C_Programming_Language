@@ -7,5 +7,3 @@ int main(){
     printf("Value of second string is: %s",ch2);
     return 0;
 }
-
-//Value of second string is: amanulla

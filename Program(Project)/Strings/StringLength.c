@@ -6,5 +6,4 @@ int main(){
     return 0;
 }
 
-//Length of string is: 8
 

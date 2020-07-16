@@ -9,7 +9,4 @@ int main(){
     return 0;
 }
 
-//Enter string: AMANulla
-//String is: AMANulla
-//Lower String is: amanulla
 

@@ -7,6 +7,3 @@ int main(){
     printf("cube of number is:%d ",number*number*number);
     return 0;
 }
-
-// enter a number:5
-//cube of number is:125

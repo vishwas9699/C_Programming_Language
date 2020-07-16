@@ -15,7 +15,6 @@ void main ()
     printf("The number of vowels %d",count);
 }
 
-//The number of vowels 4
 
 
 //Traverse Using Null

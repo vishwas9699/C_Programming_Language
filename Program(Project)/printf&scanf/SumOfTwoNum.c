@@ -12,7 +12,3 @@ int main(){
 
     return 0;
 }
-
-// enter first number:9
-// enter second number:9
-// sum of 2 numbers:18

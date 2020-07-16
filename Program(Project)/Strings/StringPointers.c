@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main ()
 {
-    char *p = "hello aman";
+    char *p = "hello Vishwas";
     printf("String p: %s\n",p);
     char *q;
     printf("copying the content of p into q...\n");
@@ -9,7 +9,4 @@ void main ()
     printf("String q: %s\n",q);
 }
 
-//String p: hello aman
-//copying the content of p into q...
-//String q: hello aman
 

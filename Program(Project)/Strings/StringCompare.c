@@ -12,7 +12,3 @@ int main(){
         printf("Strings are not equal");
     return 0;
 }
-
-//Enter 1st string: hello
-//Enter 2nd string: hello
-//Strings are equal

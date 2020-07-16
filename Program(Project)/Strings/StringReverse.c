@@ -9,6 +9,3 @@ int main(){
     return 0;
 }
 
-//Enter string: aman
-//String is: aman
-//Reverse String is: nama

@@ -3,10 +3,10 @@
 int main(){
     char str[100]="this is programming with c and java";
     char *sub;
-    sub=strstr(str,"java");
+    sub=strstr(str,"python");
     printf("\nSubstring is: %s",sub);
     return 0;
 }
 
 
-//Substring is: java
+

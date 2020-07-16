@@ -7,5 +7,3 @@ int main(){
     printf("Value of first string is: %s",ch);
     return 0;
 }
-
-Value of first string is: helloc

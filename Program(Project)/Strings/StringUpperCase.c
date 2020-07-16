@@ -9,6 +9,3 @@ int main(){
     return 0;
 }
 
-//Enter string: amanulla
-//String is: amanulla
-//Upper String is: AMANULLA

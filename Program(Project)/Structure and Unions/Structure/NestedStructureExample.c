@@ -14,11 +14,11 @@ struct Employee
 int main( )
 {
     //storing employee information
-    e1.id=101;
-    strcpy(e1.name, "Aman");//copying string into char array
-    e1.doj.dd=10;
-    e1.doj.mm=11;
-    e1.doj.yyyy=2014;
+    e1.id=29;
+    strcpy(e1.name, "Vishwas");//copying string into char array
+    e1.doj.dd=16;
+    e1.doj.mm=07;
+    e1.doj.yyyy=2020;
 
     //printing first employee information
     printf( "employee id : %d\n", e1.id);
@@ -27,6 +27,3 @@ int main( )
     return 0;
 }
 
-//employee id : 101
-//employee name : Aman
-//employee date of joining (dd/mm/yyyy) : 10/11/2014

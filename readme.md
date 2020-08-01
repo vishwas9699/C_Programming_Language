@@ -38,7 +38,7 @@ It can be defined by the following ways:
 
 * A procedure is known as a function, method, routine, subroutine, etc. A procedural language specifies a series of steps for the program to solve the problem.
 
-A procedural language breaks the program into functions, data structures, etc.
+* A procedural language breaks the program into functions, data structures, etc.
 
 C is a procedural language. In C, variables and function prototypes must be declared before being used.
 

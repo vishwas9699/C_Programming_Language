@@ -30,7 +30,7 @@ It can be defined by the following ways:
 
 * A system programming language is used to create system software. C language is a system programming language because it can be used to do low-level programming (for example driver and kernel). It is generally used to create hardware devices, OS, drivers, kernels, etc. For example, Linux kernel is written in C.
 
-It can't be used for internet programming like Java, .Net, PHP, etc.
+* It can't be used for internet programming like Java, .Net, PHP, etc.
 
 ----------
 

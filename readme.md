@@ -40,7 +40,7 @@ It can be defined by the following ways:
 
 * A procedural language breaks the program into functions, data structures, etc.
 
-*C is a procedural language. In C, variables and function prototypes must be declared before being used.
+* C is a procedural language. In C, variables and function prototypes must be declared before being used.
 
 --------------
 

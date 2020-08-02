@@ -46,19 +46,19 @@ It can be defined by the following ways:
 
 ##### 4) C as a structured programming language
 
-A structured programming language is a subset of the procedural language. Structure means to break a program into parts or blocks so that it may be easy to understand.
+* A structured programming language is a subset of the procedural language. Structure means to break a program into parts or blocks so that it may be easy to understand.
 
-In the C language, we break the program into parts using functions. It makes the program easier to understand and modify.
+* In the C language, we break the program into parts using functions. It makes the program easier to understand and modify.
 
 -------------
 
 ##### 5) C as a mid-level programming language
 
-C is considered as a middle-level language because it supports the feature of both low-level and high-level languages. C language program is converted into assembly code, it supports pointer arithmetic (low-level), but it is machine independent (a feature of high-level).
+* C is considered as a middle-level language because it supports the feature of both low-level and high-level languages. C language program is converted into assembly code, it supports pointer arithmetic (low-level), but it is machine independent (a feature of high-level).
 
-A Low-level language is specific to one machine, i.e., machine dependent. It is machine dependent, fast to run. But it is not easy to understand.
+* A Low-level language is specific to one machine, i.e., machine dependent. It is machine dependent, fast to run. But it is not easy to understand.
 
-A High-Level language is not specific to one machine, i.e., machine independent. It is easy to understand.
+* A High-Level language is not specific to one machine, i.e., machine independent. It is easy to understand.
 
 -----------
 

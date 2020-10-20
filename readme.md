@@ -117,3 +117,7 @@ Topics
 |[C rewind()](https://github.com/vishwas9699/C_Programming_Language/blob/master/File%20Handling/rewind().md)|
 |[Example Program](https://github.com/vishwas9699/C_Programming_Language/tree/master/Program(Project))|
 
+
+
+<script type="text/javascript" src="https://free-hit-counters.net/count/7qnm"></script><br>
+ <a href='https://xn--besucherzhler-counter-e2b.com/'>Website Counter</a> <script type='text/javascript' src='https://www.whomania.com/ctr?id=55231a8572daa0a787e51015e4148d337ad8baf4'></script>
